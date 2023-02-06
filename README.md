@@ -2,28 +2,28 @@
 
 This list is composed of the different ASN numbers of the French speaking telecom operators.
 
-AS3215 - Orange S.A.
-AS15557 - Societe Francaise Du Radiotelephone - SFR SA
-AS12322 - Free SAS
-AS5410 - Bouygues Telecom SA
-AS51207 - Free Mobile SAS
-AS5511 - Orange S.A.
-AS2278 - Orange S.A.
-AS41272 - MOSELLE TELECOM
-AS34383 - Teloise
-AS12626 - Societe Francaise Du Radiotelephone - SFR SA
-AS9003 - Societe Francaise Du Radiotelephone - SFR SA
-AS35238 - Alsace Connexia
-AS42811 - Herault Telecom
-AS28708 - Orange S.A.
-AS29110 - Institut Pasteur
-AS41334 - MANCHE TELECOM
-AS47206 - Rennes Metropole Telecom Participation
-AS1301 - Electricite de France SA
-AS43763 - Haut-Rhin Telecom
-AS43698 - Ariege Telecom
-AS12566 - Societe Francaise Du Radiotelephone - SFR SA
-AS2280 - Orange S.A.
+AS3215 - Orange S.A. <br>
+AS15557 - Societe Francaise Du Radiotelephone - SFR SA <br>
+AS12322 - Free SAS <br>
+AS5410 - Bouygues Telecom SA<br><br>
+AS51207 - Free Mobile SAS<br>
+AS5511 - Orange S.A.<br>
+AS2278 - Orange S.A.<br>
+AS41272 - MOSELLE TELECOM<br>
+AS34383 - Teloise<br>
+AS12626 - Societe Francaise Du Radiotelephone - SFR SA<br>
+AS9003 - Societe Francaise Du Radiotelephone - SFR SA<br>
+AS35238 - Alsace Connexia<br>
+AS42811 - Herault Telecom<br>
+AS28708 - Orange S.A.<br>
+AS29110 - Institut Pasteur<br>
+AS41334 - MANCHE TELECOM<br>
+AS47206 - Rennes Metropole Telecom Participation<br>
+AS1301 - Electricite de France SA<br>
+AS43763 - Haut-Rhin Telecom<br>
+AS43698 - Ariege Telecom<br>
+AS12566 - Societe Francaise Du Radiotelephone - SFR SA<br>
+AS2280 - Orange S.A.<br>
 
 Lists of all ip blocks:
 
